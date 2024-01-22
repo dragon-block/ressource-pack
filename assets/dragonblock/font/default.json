@@ -1,0 +1,1012 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_container.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE100"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_0.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_1.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_2.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_3.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_4.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_5.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_6.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_7.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_8.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_9.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_000.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE300"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_001.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE301"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_002.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE302"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_003.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE303"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_004.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE304"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_005.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE305"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_006.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE306"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_007.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE307"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_008.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE308"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_009.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE309"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_010.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE310"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_011.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE311"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_012.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE312"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_013.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE313"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_014.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE314"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_015.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE315"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_016.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE316"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_017.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE317"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_018.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE318"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_019.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE319"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_020.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE320"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_021.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE321"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_022.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE322"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_023.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE323"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_024.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE324"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_025.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE325"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_026.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE326"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_027.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE327"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_028.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE328"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_029.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE329"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_030.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE330"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_031.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE331"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_032.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE332"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_033.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE333"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_034.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE334"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_035.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE335"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_036.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE336"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_037.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE337"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_038.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE338"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_039.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE339"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_040.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE340"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_041.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE341"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_042.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE342"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_043.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE343"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_044.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE344"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_045.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE345"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_046.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE346"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_047.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE347"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_048.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE348"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_049.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE349"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_050.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE350"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_051.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE351"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_052.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE352"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_053.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE353"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_054.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE354"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_055.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE355"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_056.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE356"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_057.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE357"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_058.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE358"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_059.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE359"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_060.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE360"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_061.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE361"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_062.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE362"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_063.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE363"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_064.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE364"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_065.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE365"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_066.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE366"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_067.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE367"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_068.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE368"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_069.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE369"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_070.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE370"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_071.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE371"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_072.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE372"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_073.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE373"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_074.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE374"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_075.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE375"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_076.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE376"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_077.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE377"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_078.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE378"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_079.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE379"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_080.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE380"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_081.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE381"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_082.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE382"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_083.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE383"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_084.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE384"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_085.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE385"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_086.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE386"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_087.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE387"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_088.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE388"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_089.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE389"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_090.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE390"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_091.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE391"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_092.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE392"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_093.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE393"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_094.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE394"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_095.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE395"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_096.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE396"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_097.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE397"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_098.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE398"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_099.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE399"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:hud/ki_progression/p_100.png",
+            "ascent": -32,
+            "height": 32,
+            "chars": [
+                "\uE400"
+            ]
+        }
+    ]
+}

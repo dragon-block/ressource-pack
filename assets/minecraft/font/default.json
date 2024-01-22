@@ -1,0 +1,18 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "space:font/splitter.png",
+            "ascent": -2000,
+            "height": -3,
+            "chars": ["\uF000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:gui/skills_tree.png",
+            "ascent": 13,
+            "height": 183,
+            "chars": ["\uE000"]
+        }
+    ]
+}

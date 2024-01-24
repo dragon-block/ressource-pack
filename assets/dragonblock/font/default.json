@@ -1007,6 +1007,60 @@
             "chars": [
                 "\uE400"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:item/charisma.png",
+            "ascent": -1,
+            "height": 8,
+            "chars": [
+                "\uE500"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:item/intelligence.png",
+            "ascent": -1,
+            "height": 8,
+            "chars": [
+                "\uE501"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:item/ki.png",
+            "ascent": -1,
+            "height": 8,
+            "chars": [
+                "\uE502"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:item/luck.png",
+            "ascent": -1,
+            "height": 8,
+            "chars": [
+                "\uE503"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:item/stamina.png",
+            "ascent": -1,
+            "height": 8,
+            "chars": [
+                "\uE504"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:item/strength.png",
+            "ascent": -1,
+            "height": 8,
+            "chars": [
+                "\uE505"
+            ]
         }
     ]
 }

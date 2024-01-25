@@ -1,0 +1,12 @@
+{
+    "dragonblock.charging": {
+      "sounds": [
+        "custom/charging"
+      ]
+    },
+    "dragonblock.start_charging": {
+      "sounds": [
+        "custom/start_charging"
+      ]
+    }
+  }

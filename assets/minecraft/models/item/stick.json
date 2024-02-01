@@ -9,6 +9,20 @@
           "custom_model_data": 1
         },
         "model": "dragonblock:item/strength"
+      },
+      
+      {
+        "predicate": {
+          "custom_model_data": 2
+        },
+        "model": "dragonblock:item/jobs/left_arrow"
+      },
+      
+      {
+        "predicate": {
+          "custom_model_data": 3
+        },
+        "model": "dragonblock:item/jobs/right_arrow"
       }
     ]
   }

@@ -13,6 +13,34 @@
             "ascent": 13,
             "height": 183,
             "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:gui/jobs.png",
+            "ascent": 13,
+            "height": 136,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:gui/job_details_both.png",
+            "ascent": 13,
+            "height": 114,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:gui/job_details_left.png",
+            "ascent": 13,
+            "height": 130,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:gui/job_details_right.png",
+            "ascent": 13,
+            "height": 128,
+            "chars": ["\uE004"]
         }
     ]
 }

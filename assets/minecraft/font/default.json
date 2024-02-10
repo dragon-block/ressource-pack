@@ -48,6 +48,13 @@
             "ascent": 22,
             "height": 140,
             "chars": ["\uE005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "dragonblock:gui/species/species_selection.png",
+            "ascent": 12,
+            "height": 125,
+            "chars": ["\uE006"]
         }
     ]
 }

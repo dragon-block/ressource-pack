@@ -23,6 +23,13 @@
           "custom_model_data": 3
         },
         "model": "dragonblock:item/jobs/right_arrow"
+      },
+      
+      {
+        "predicate": {
+          "custom_model_data": 4
+        },
+        "model": "dragonblock:item/specials/kamehameha"
       }
     ]
   }

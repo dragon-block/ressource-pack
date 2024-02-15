@@ -1,0 +1,37 @@
+{
+    "attacks.kamehameha.0_ka": {
+        "sounds": [
+            "dragonblock:attacks/kamehameha/0_ka"
+        ]
+    },
+    "attacks.kamehameha.1_me": {
+        "sounds": [
+            "dragonblock:attacks/kamehameha/1_me"
+        ]
+    },
+    "attacks.kamehameha.2_ha": {
+        "sounds": [
+            "dragonblock:attacks/kamehameha/2_ha"
+        ]
+    },
+    "attacks.kamehameha.3_me": {
+        "sounds": [
+            "dragonblock:attacks/kamehameha/3_me"
+        ]
+    },
+    "attacks.kamehameha.4_ha": {
+        "sounds": [
+            "dragonblock:attacks/kamehameha/4_ha"
+        ]
+    },
+    "dragonblock.charging": {
+        "sounds": [
+            "dragonblock:abilities/shift_ki_regeneration/start_charging"
+        ]
+    },
+    "dragonblock.start_charging": {
+        "sounds": [
+            "dragonblock:abilities/shift_ki_regeneration/start_charging"
+        ]
+    }
+}
